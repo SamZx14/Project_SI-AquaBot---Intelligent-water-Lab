@@ -1,0 +1,11 @@
+"""Shared colors and layout measurements."""
+
+W, H = 1200, 800
+BG, PANEL, WHITE = (8, 17, 27), (16, 31, 44), (245, 243, 255)
+MUTED, ACCENT = (156, 181, 194), (247, 188, 103)
+TEAL = (113, 226, 222)
+WATER_A, WATER_B = (105, 190, 219), (105, 190, 219)
+GLASS_EDGE = (110, 162, 179)
+JUG_X = (220, 486)
+JUG_TOP, JUG_BOTTOM, JUG_WIDTH = 420, 556, 164
+DRONE_Y, DRONE_NOZZLE_Y = 288, 375
