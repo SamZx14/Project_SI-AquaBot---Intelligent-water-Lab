@@ -117,3 +117,5 @@ if (!(Test-Path $labPython)) { $labPython = '..\.venv\Scripts\python.exe' }
 For a display-free smoke test set `$env:SDL_VIDEODRIVER='dummy'` first.
 
 Pygame API reference: [official documentation](https://www.pygame.org/docs/).
+
+© Samira Ibrahim. All rights reserved.
